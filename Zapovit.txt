@@ -1,15 +1,15 @@
-1.Як умру то поховайте
+﻿1.Як умру то поховайте
 ﻿2.Mene na mogyli
-3.На Вкраїні милій,
-4.I mene v sim'i velykiy,
-5.v sim'i vol'niy niviy,
-6.ne zabud'te pomianuty
-7.ne zlym tyhym slovom.
-8.Kaidany porvite
-9.I mene v sim'i velykiy,
-10.v sim'i vol'niy niviy,
-11.ne zabud'te pomianuty
-12.ne zlym tyhym slovom.
-
+3.Sered stepu shyrokogo
+4.На Вкраїні милій,
+5.I mene v sim'i velykiy,
+6.v sim'i vol'niy niviy,
+7.ne zabud'te pomianuty
+8.ne zlym tyhym slovom.
+9.Kaidany porvite
+10.I mene v sim'i velykiy,
+11.v sim'i vol'niy niviy,
+12.ne zabud'te pomianuty
+13.ne zlym tyhym slovom.
+14.I mene v sim'i velykiy
 T.Shevchenko
-
