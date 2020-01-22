@@ -5,11 +5,11 @@
 5.v sim'i vol'niy niviy,
 6.ne zabud'te pomianuty
 7.ne zlym tyhym slovom.
-8.Kaidany porvite
-9.I mene v sim'i velykiy,
-10.v sim'i vol'niy niviy,
-11.ne zabud'te pomianuty
-12.ne zlym tyhym slovom.
+8.Pohovaite ta vstavaite,
+9.Kaidany porvite
+10.I mene v sim'i velykiy,
+11.v sim'i vol'niy niviy,
+12.ne zabud'te pomianuty
+13.ne zlym tyhym slovom.
 
 T.Shevchenko
-
