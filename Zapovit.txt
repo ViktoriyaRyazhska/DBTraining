@@ -1,36 +1,15 @@
-<<<<<<< HEAD
 1.Як умру то поховайте
 ﻿2.Mene na mogyli
-=======
-﻿Як умру то поховайте
-﻿Yak umru to pohovaite
-﻿Mene na mogyli
->>>>>>> c285ebab289b9d4fd5fd526abffb6c7e4ff17d4c
-
-<<<<<<< HEAD
-На Вкраїні милій,
-У синєє море
-=======
 3.На Вкраїні милій,
 4.I mene v sim'i velykiy,
 5.v sim'i vol'niy niviy,
 6.ne zabud'te pomianuty
 7.ne zlym tyhym slovom.
->>>>>>> 5f45332846d78bd462dffe26410d4a3b375f79df
-
-<<<<<<< HEAD
 8.Kaidany porvite
-
 9.I mene v sim'i velykiy,
 10.v sim'i vol'niy niviy,
 11.ne zabud'te pomianuty
 12.ne zlym tyhym slovom.
-=======
-I mene v sim'i velykiy,
-v sim'i vol'niy niviy,
-ne zabud'te pomianuty
-ne zlym tyhym slovom.
-
 
 T.Shevchenko
->>>>>>> c285ebab289b9d4fd5fd526abffb6c7e4ff17d4c
+
