@@ -1,15 +1,9 @@
+﻿Yak umru to pohovaite
 ﻿Mene na mogyli
-<<<<<<< HEAD
 Sered stepu shyrokogo
 На Вкраїні милій,
-
-=======
-На Вкраїні милій,
-
 I mene v sim'i velykiy,
 v sim'i vol'niy niviy,
 ne zabud'te pomianuty
 ne zlym tyhym slovom.
-
->>>>>>> 11a6c4fba663722612b12fa513cd206bf2647fbe
 
