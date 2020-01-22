@@ -2,8 +2,14 @@
 ﻿2.Mene na mogyli
 
 3.На Вкраїні милій,
-
 4.I mene v sim'i velykiy,
 5.v sim'i vol'niy niviy,
 6.ne zabud'te pomianuty
 7.ne zlym tyhym slovom.
+
+8.Kaidany porvite
+
+9.I mene v sim'i velykiy,
+10.v sim'i vol'niy niviy,
+11.ne zabud'te pomianuty
+12.ne zlym tyhym slovom.
