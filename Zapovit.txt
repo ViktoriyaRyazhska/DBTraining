@@ -1,4 +1,7 @@
+Як умру то поховайте
+﻿Yak umru to pohovaite
 ﻿Mene na mogyli
+
 На Вкраїні милій,
 
 
@@ -9,7 +12,10 @@ I mene v sim'i velykiy,
 v sim'i vol'niy niviy,
 ne zabud'te pomianuty
 ne zlym tyhym slovom.
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> ed2caa2ac824c0eb833fc6e571f6569fdaa531b7
